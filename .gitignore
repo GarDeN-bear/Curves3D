@@ -1,0 +1,5 @@
+*build/
+*out/
+*x64/
+*vs/
+*vscode/
